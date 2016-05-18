@@ -1,7 +1,7 @@
 # InfosecLabs
 A penetration testing lab designed and built for the purpose of teaching, researching, and testing offensive &amp; defensive security techniques
 
-![Alt text](pictures/Infoseclabs.png)
+![Alt text](images/Infoseclabs.png)
 
 ### How does this work?
 Our public lab is meant to teach penetration testing through a full scale hands on penetration testing challenge
@@ -18,7 +18,7 @@ Anyone that has questions about building a lab is welcome to join us on Freenode
 If you have any questions about the lab please tweet to [@infoseclabs](https://twitter.com/Infoseclabs) or just tweet with #infoseclabs and one of the lab admins will respond
 
 Network Diagram:
-![Alt text](pictures/Infoseclabs-network-diagram.png)
+![Alt text](images/Infoseclabs-network-diagram.png)
 
 ### Lab features:
 * Windows domain/services
