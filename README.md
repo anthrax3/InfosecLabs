@@ -3,16 +3,18 @@ A penetration testing lab designed and built for the purpose of teaching, resear
 
 ![Alt text](images/Infoseclabs.png)
 
+## This project is currently down until further notice
+
 ### How does this work?
 Our public lab is meant to teach penetration testing through a full scale hands on penetration testing challenge
 Our private lab is reserved for private research and teaching locally
 If you would like to build your own lab and have questions you can  join us on irc(See IRC channel section)
 
 ### How do I connect to the public lab?
-Please join us on irc for connection details
+~~Please join us on irc for connection details~~
 
 ### IRC channel:
-Anyone that has questions about building a lab is welcome to join us on Freenode in the channel #infoseclabs. We also have public facing labs that you can get details about by joining us on irc. The public lab is used to teach penetration testing through hands on challenges.
+~~Anyone that has questions about building a lab is welcome to join us on Freenode in the channel #infoseclabs. We also have public facing labs that you can get details about by joining us on irc. The public lab is used to teach penetration testing through hands on challenges.~~
 
 ### Twitter:
 If you have any questions about the lab please tweet to [@infoseclabs](https://twitter.com/Infoseclabs) or just tweet with #infoseclabs and one of the lab admins will respond
