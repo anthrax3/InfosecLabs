@@ -11,10 +11,7 @@ Our private lab is reserved for private research and teaching locally
 If you would like to build your own lab and have questions you can  join us on irc(See IRC channel section)
 
 ### How do I connect to the public lab?
-~~Please join us on irc for connection details~~
-
-### IRC channel:
-~~Anyone that has questions about building a lab is welcome to join us on Freenode in the channel #infoseclabs. We also have public facing labs that you can get details about by joining us on irc. The public lab is used to teach penetration testing through hands on challenges.~~
+I’m currently in the process of rebuilding the labs to enable much more public participation.  I’m merging the public and private labs to be one giant playground with ties into the cloud as well.  Stay tuned, there are a lot of exciting changes coming soon!  I’ll tweet out when the lab is ready and update this page.
 
 ### Twitter:
 If you have any questions about the lab please tweet to [@infoseclabs](https://twitter.com/Infoseclabs) or just tweet with #infoseclabs and one of the lab admins will respond
