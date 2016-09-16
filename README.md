@@ -9,7 +9,7 @@ Our private lab is reserved for private research and teaching locally
 If you would like to build your own lab and have questions you can  join us on irc(See IRC channel section)
 
 ### How do I connect to the public lab?
-I’m currently in the process of rebuilding the labs to enable much more public participation.  I’m merging the public and private labs to be one giant playground with ties into the cloud as well.  Stay tuned, there are a lot of exciting changes coming soon!  I’ll tweet out when the lab is ready and update this page.
+I’m currently in the process of rebuilding the labs to enable much more public participation.  I’m merging the public and private labs to be one giant playground with ties into the cloud.  Stay tuned, there are a lot of exciting changes coming soon!  I’ll tweet out when the lab is ready and update this page.
 
 ### Twitter:
 If you have any questions about the lab please tweet to [@infoseclabs](https://twitter.com/Infoseclabs) or just tweet with #infoseclabs and one of the lab admins will respond
