@@ -3,8 +3,6 @@ A penetration testing lab designed and built for the purpose of teaching, resear
 
 ![Alt text](images/Infoseclabs.png)
 
-## This project is currently down until further notice
-
 ### How does this work?
 Our public lab is meant to teach penetration testing through a full scale hands on penetration testing challenge
 Our private lab is reserved for private research and teaching locally
