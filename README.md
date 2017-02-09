@@ -11,9 +11,6 @@ If you would like to build your own lab and have questions you can  join us on i
 ### How do I connect to the public lab?
 I’m currently in the process of rebuilding the labs to enable much more public participation.  I’m merging the public and private labs to be one giant playground with ties into the cloud.  Stay tuned, there are a lot of exciting changes coming soon!  I’ll tweet out when the lab is ready and update this page.
 
-### Slack
-If you want to join our #infoseclabs channel you can join us on our Slack team SDHackers. For an invite please email sdhackers@sdhackers.io
-
 ### Twitter:
 If you have any questions about the lab please tweet to [@infoseclabs](https://twitter.com/Infoseclabs) or just tweet with #infoseclabs and one of the lab admins will respond
 
