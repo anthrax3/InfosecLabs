@@ -48,4 +48,3 @@ Network Diagram:
 
 ### Lab Admins:
 * [TheHonz](https://twitter.com/IamtheHonz)
-* [Sneakerhax](https://twitter.com/sneakerhax)
